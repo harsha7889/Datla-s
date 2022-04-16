@@ -1,0 +1,90 @@
+
+#intro{
+  text-align: center;
+}
+#fir-nav{
+  padding-bottom: 10%;
+}
+.head{
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 0 15%
+
+}
+.par{
+  margin: 50px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.ls,.rs{
+  height: 100vh;
+  width: 100%;
+}
+.ls{
+  background-color: #F25D9C;
+  padding: 5% 0 5% 0;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.rs{
+  background-color: #E5B299;
+  padding: 5% 0 5% 0;
+}
+
+.navbar-brand{
+  font-weight: bold;
+}
+.nav-item{
+  font-weight: bold;
+}
+.c,.t,.ca,.co{
+  width: 30%;
+  padding-bottom: 15px;
+}
+.heading{
+  padding-bottom: 10px;
+}
+.menu{
+  padding-bottom: 5%;
+  font-weight: bold;
+
+}
+.loc{
+  padding: 5% 15%
+}
+
+.para{
+  padding: 5%;
+}
+#contact{
+  background-color: #FFEEEE;
+  text-align: center;
+  padding: 2% 15%
+}
+#menu{
+  font-family:fantasy;
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #FCBAD3;
+  color: #6C5B7B;
+}
+#nav-bar{
+  font-size: 2.5rem
+}
+#left{
+  padding: 5% 5%
+
+}
+#location{
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #EDB1F1;
+  font-weight: bold;
+  text-align: left;
+}
+.ls:hover{
+  background-color: #E1CCEC;
+}
+.rs:hover{
+  background-color: #FFE2E2;
+}
